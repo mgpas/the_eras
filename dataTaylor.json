@@ -1,0 +1,261 @@
+[
+  {
+    "dia": "17/03",
+    "local": "Glendale, Ariz.",
+    "musicas": ["Mirrorball", "Tim McGraw"],
+    "latitude": 33.528839,
+    "longitude": -112.263901
+  },
+  {
+    "dia": "18/03",
+    "local": "Glendale, Ariz.",
+    "musicas": ["State of Grace", "This Is Me Trying"],
+    "latitude": 33.528839,
+    "longitude": -112.263901
+  },
+  {
+    "dia": "24/03",
+    "local": "Las Vegas, Nev.",
+    "musicas": ["Our Song", "Snow on the Beach"]
+  },
+  {
+    "dia": "25/03",
+    "local": "Las Vegas, Nev.",
+    "musicas": ["Cowboy Like Me com Marcus Mumford", "White Horse"]
+  },
+  {
+    "dia": "31/03",
+    "local": "Arlington, Texas",
+    "musicas": ["Sad Beautiful Tragic", "Ours"]
+  },
+  {
+    "dia": "01/04",
+    "local": "Arlington, Texas",
+    "musicas": ["Death by a Thousand Cuts", "Clean"]
+  },
+  {
+    "dia": "02/04",
+    "local": "Arlington, Texas",
+    "musicas": ["Jump Then Fall", "The Lucky One"]
+  },
+  {
+    "dia": "13/04",
+    "local": "Tampa, Fla.",
+    "musicas": ["Speak Now", "Treacherous"]
+  },
+  {
+    "dia": "14/04",
+    "local": "Tampa, Fla.",
+    "musicas": ["The Great War com Aaron Dessner", "You’re on Your Own, Kid"]
+  },
+  {
+    "dia": "15/04",
+    "local": "Tampa, Fla.",
+    "musicas": ["Mad Woman com Aaron Dessner", "Mean"]
+  },
+  {
+    "dia": "21/04",
+    "local": "Houston, Texas",
+    "musicas": ["Wonderland", "You’re Not Sorry"]
+  },
+  {
+    "dia": "22/04",
+    "local": "Houston, Texas",
+    "musicas": ["A Place in This World", "Today Was a Fairytale"]
+  },
+  {
+    "dia": "23/04",
+    "local": "Houston, Texas",
+    "musicas": ["Begin Again", "Cold as You"]
+  },
+  {
+    "dia": "28/04",
+    "local": "Atlanta, Ga.",
+    "musicas": ["The Other Side of the Door", "Coney Island"]
+  },
+  {
+    "dia": "29/04",
+    "local": "Atlanta, Ga.",
+    "musicas": ["High Infidelity", "Gorgeous"]
+  },
+  {
+    "dia": "30/04",
+    "local": "Atlanta, Ga.",
+    "musicas": ["I Bet You Think About Me", "How You Get the Girl"]
+  },
+  {
+    "dia": "05/05",
+    "local": "Nashville, Tenn.",
+    "musicas": ["Sparks Fly", "Teardrops on My Guitar"]
+  },
+  {
+    "dia": "06/05",
+    "local": "Nashville, Tenn.",
+    "musicas": ["Out of the Woods", "Fifteen"]
+  },
+  {
+    "dia": "07/05",
+    "local": "Nashville, Tenn.",
+    "musicas": ["Would’ve, Could’ve, Should’ve com Aaron Dessner", "Mine"]
+  },
+  {
+    "dia": "12/05",
+    "local": "Philadelphia, Penn.",
+    "musicas": ["Gold Rush", "Come Back…Be Here"]
+  },
+  {
+    "dia": "13/05",
+    "local": "Philadelphia, Penn.",
+    "musicas": ["Forever & Always", "This Love"]
+  },
+  {
+    "dia": "14/05",
+    "local": "Philadelphia, Penn.",
+    "musicas": ["Hey Stephen", "The Best Day"]
+  },
+  {
+    "dia": "19/05",
+    "local": "Foxborough, Mass.",
+    "musicas": ["Should’ve Said No", "Better Man"]
+  },
+  {
+    "dia": "20/05",
+    "local": "Foxborough, Mass.",
+    "musicas": ["Question…?", "Invisible"]
+  },
+  {
+    "dia": "21/05",
+    "local": "Foxborough, Mass.",
+    "musicas": ["I Think He Knows", "Red"]
+  },
+  {
+    "dia": "26/05",
+    "local": "East Rutherford, N.J.",
+    "musicas": ["Getaway Car com Jack Antonoff", "Maroon"]
+  },
+  {
+    "dia": "27/05",
+    "local": "East Rutherford, N.J.",
+    "musicas": ["Holy Ground", "False God"]
+  },
+  {
+    "dia": "28/05",
+    "local": "East Rutherford, N.J.",
+    "musicas": ["Welcome to New York", "Clean"]
+  },
+  {
+    "dia": "02/06",
+    "local": "Chicago, Ill.",
+    "musicas": ["I Wish You Would", "The Lakes"]
+  },
+  {
+    "dia": "03/06",
+    "local": "Chicago, Ill.",
+    "musicas": ["You All Over Me com Maren Morris", "I Don’t Wanna Live Forever"]
+  },
+  {
+    "dia": "04/06",
+    "local": "Chicago, Ill.",
+    "musicas": ["Hits Different", "The Moment I Knew"]
+  },
+  {
+    "dia": "09/06",
+    "local": "Detroit, Mich.",
+    "musicas": ["Haunted", "I Almost Do"]
+  },
+  {
+    "dia": "10/06",
+    "local": "Detroit, Mich.",
+    "musicas": ["All You Had to Do Was Stay", "Breathe"]
+  },
+  {
+    "dia": "16/06",
+    "local": "Pittsburgh, Penn.",
+    "musicas": ["Mr. Perfectly Fine", "The Last Time"]
+  },
+  {
+    "dia": "17/06",
+    "local": "Pittsburgh, Penn.",
+    "musicas": ["Seven com Aaron Dessner", "The Story of Us"]
+  },
+  {
+    "dia": "23/06",
+    "local": "Minneapolis, Minn.",
+    "musicas": ["Paper Rings", "If This Was a Movie"]
+  },
+  {
+    "dia": "24/06",
+    "local": "Minneapolis, Minn.",
+    "musicas": ["Dear John", "Daylight"]
+  },
+  {
+    "dia": "30/06",
+    "local": "Cincinnati, Ohio",
+    "musicas": ["I’m Only Me When I’m With You", "Evermore"]
+  },
+  {
+    "dia": "01/07",
+    "local": "Cincinnati, Ohio",
+    "musicas": ["Ivy com Aaron Dessner", "I Miss You, I’m Sorry com Gracie Abrams", "Call It What You Want"]
+  },
+  {
+    "dia": "07/07",
+    "local": "Kansas City, Miss.",
+    "musicas": ["Never Grow Up", "When Emma Falls in Love"]
+  },
+  {
+    "dia": "08/07",
+    "local": "Kansas City, Miss.",
+    "musicas": ["Last Kiss", "Dorothea"]
+  },
+  {
+    "dia": "14/07",
+    "local": "Denver, Colo.",
+    "musicas": ["Picture to Burn", "Timeless"]
+  },
+  {
+    "dia": "15/07",
+    "local": "Denver, Colo.",
+    "musicas": ["Starlight", "Back to December"]
+  },
+  {
+    "dia": "22/07",
+    "local": "Seattle, Wash.",
+    "musicas": ["This Is Why We Can’t Have Nice Things", "Everything Has Changed"]
+  },
+  {
+    "dia": "23/07",
+    "local": "Seattle, Wash.",
+    "musicas": ["Message in a Bottle", "Tied Together With a Smile"]
+  },
+  {
+    "dia": "28/07",
+    "local": "Santa Clara, Calif.",
+    "musicas": ["Right Where You Left Me", "Castles Crumbling"]
+  },
+  {
+    "dia": "29/07",
+    "local": "Santa Clara, Calif.",
+    "musicas": ["Stay Stay Stay", "All of the Girls You Loved Before"]
+  },
+  {
+    "dia": "03/08",
+    "local": "Los Angeles, Calif.",
+    "musicas": ["I Can See You", "Maroon"]
+  },
+  {
+    "dia": "04/08",
+    "local": "Los Angeles, Calif.",
+    "musicas": ["Our Song", "You Are in Love"]
+  },
+  {
+    "dia": "05/08",
+    "local": "Los Angeles, Calif.",
+    "musicas": ["Death by a Thousand Cuts", "You’re on Your Own, Kid"]
+  },
+  {
+    "dia": "07/08",
+    "local": "Los Angeles, Calif.",
+    "musicas": ["Dress", "Exile"]
+  }
+]
